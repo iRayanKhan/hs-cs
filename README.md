@@ -1,5 +1,5 @@
 # Highschool-Computer Science
-### Compilation of work from my highschool Computer Science, Mobile App Programming, and Video Game Programming classes.
+#### Compilation of work from my highschool Computer Science, Mobile App Programming, and Video Game Programming classes.
 
 ## Courses 
 * Pre-Ap Computer Science 1 (2018-2019)
