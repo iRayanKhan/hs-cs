@@ -22,18 +22,21 @@
 ## Computer Science
 > From 2018-2021, during all three levels of this course, I have utilized: Java, Python, and Unity to make games in c#.
 ### Highlighted works:
-
+* Roll a Ball
+* Star Tag
 
 
 
 ## Mobile App Programming
 > In 2019, I completed the Mobile App Programming course which used Swift, and ciriculum based off Apple's official Swift book.
 ### Highlited works:
-
-
+* Flappy Bird
+* IB lab
 
 
 
 ## Video Game Programming
 > In both of the Video Game Programming courses offered, we used Microsoft's XNA framework in 2019, and c# with Unreal engine from 2020-2021.
 ### Highlited works:
+* Joust
+* Player vs Pixel
